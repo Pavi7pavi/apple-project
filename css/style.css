@@ -200,7 +200,7 @@ html{
 /* home section starts  */
 
 .home{
-    padding-top: 15rem;
+    /* padding-top: 15rem; */
     display: flex;
     align-items: center;
     flex-wrap: wrap;
